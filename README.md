@@ -1,4 +1,4 @@
-# 💼 Board de Contas Automatizado
+# 💼 KaDom Pay - Board de Contas Automatizado
 
 Sistema pessoal para controle automatizado de contas, focado em centralizar boletos recebidos por e-mail e organizá-los visualmente em um painel inteligente com notificações, uploads de comprovantes e categorização.
 
